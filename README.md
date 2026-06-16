@@ -1,7 +1,6 @@
 ## FRC 2171
 ## VRC V5 1233C
-## Mechatronics enthusiast
-👁️👄👁️
+
 
 <!--
 **devwabbit/devwabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
